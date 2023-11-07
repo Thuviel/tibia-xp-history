@@ -1,0 +1,424 @@
+{
+	"highscores": {
+		"world": "Vunira",
+		"category": "experience",
+		"vocation": "sorcerers",
+		"highscore_list": [
+			{
+				"rank": 1,
+				"name": "Epus",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1634,
+				"value": 72500677742
+			},
+			{
+				"rank": 2,
+				"name": "Heinzinki",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1524,
+				"value": 58856614651
+			},
+			{
+				"rank": 3,
+				"name": "Pekky Khamzai",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1448,
+				"value": 50437811587
+			},
+			{
+				"rank": 4,
+				"name": "Bolk",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1379,
+				"value": 43538324235
+			},
+			{
+				"rank": 5,
+				"name": "Panwierzba",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1268,
+				"value": 33838352315
+			},
+			{
+				"rank": 6,
+				"name": "Zachciewajka",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1249,
+				"value": 32370220966
+			},
+			{
+				"rank": 7,
+				"name": "Saiintu",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1247,
+				"value": 32229467914
+			},
+			{
+				"rank": 8,
+				"name": "Delicious Damage",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1245,
+				"value": 32061277218
+			},
+			{
+				"rank": 9,
+				"name": "Ykk",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1230,
+				"value": 30906937595
+			},
+			{
+				"rank": 10,
+				"name": "Zarmalus",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1216,
+				"value": 29851244448
+			},
+			{
+				"rank": 11,
+				"name": "Quakkap",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1194,
+				"value": 28262686084
+			},
+			{
+				"rank": 12,
+				"name": "Gandalf Joe",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1161,
+				"value": 25960304723
+			},
+			{
+				"rank": 13,
+				"name": "Nicol",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1155,
+				"value": 25584426168
+			},
+			{
+				"rank": 14,
+				"name": "Hardcor",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1119,
+				"value": 23242160699
+			},
+			{
+				"rank": 15,
+				"name": "Dadizon",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1106,
+				"value": 22467204523
+			},
+			{
+				"rank": 16,
+				"name": "Vaparir",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1100,
+				"value": 22068281083
+			},
+			{
+				"rank": 17,
+				"name": "Lord Zilez",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1074,
+				"value": 20553313423
+			},
+			{
+				"rank": 18,
+				"name": "Daisuki Ito",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1029,
+				"value": 18069702673
+			},
+			{
+				"rank": 19,
+				"name": "Revanne",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1027,
+				"value": 17973202588
+			},
+			{
+				"rank": 20,
+				"name": "Anna Alexy",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1017,
+				"value": 17444842785
+			},
+			{
+				"rank": 21,
+				"name": "Not Hema",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1002,
+				"value": 16678002869
+			},
+			{
+				"rank": 22,
+				"name": "Sklejkovvy",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1001,
+				"value": 16635994673
+			},
+			{
+				"rank": 23,
+				"name": "Krasy Godlike",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 985,
+				"value": 15862956127
+			},
+			{
+				"rank": 24,
+				"name": "Umeex",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 969,
+				"value": 15075640795
+			},
+			{
+				"rank": 25,
+				"name": "Goodguy",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 968,
+				"value": 15054746704
+			},
+			{
+				"rank": 26,
+				"name": "Robin Kint",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 968,
+				"value": 15025897310
+			},
+			{
+				"rank": 27,
+				"name": "Tito Garci",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 955,
+				"value": 14468167212
+			},
+			{
+				"rank": 28,
+				"name": "Legend Sinjestar",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 949,
+				"value": 14177707103
+			},
+			{
+				"rank": 29,
+				"name": "Berglin",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 945,
+				"value": 13976137238
+			},
+			{
+				"rank": 30,
+				"name": "Eu Dei Uh",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 927,
+				"value": 13192691009
+			},
+			{
+				"rank": 31,
+				"name": "Dangerous Kiedosinho",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 924,
+				"value": 13081967921
+			},
+			{
+				"rank": 32,
+				"name": "Eme Caesar",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 919,
+				"value": 12853316413
+			},
+			{
+				"rank": 33,
+				"name": "Rustavelly",
+				"vocation": "Sorcerer",
+				"world": "Vunira",
+				"level": 913,
+				"value": 12622189864
+			},
+			{
+				"rank": 34,
+				"name": "Mighty Rostoverk",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 908,
+				"value": 12422242378
+			},
+			{
+				"rank": 35,
+				"name": "Byoniic",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 900,
+				"value": 12092111050
+			},
+			{
+				"rank": 36,
+				"name": "Voltixon",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 897,
+				"value": 11971464362
+			},
+			{
+				"rank": 37,
+				"name": "Theuzzika",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 887,
+				"value": 11588787292
+			},
+			{
+				"rank": 38,
+				"name": "Mahmoud-zoro",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 887,
+				"value": 11581610551
+			},
+			{
+				"rank": 39,
+				"name": "Xiliann",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 884,
+				"value": 11449599373
+			},
+			{
+				"rank": 40,
+				"name": "Fardar",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 878,
+				"value": 11218011367
+			},
+			{
+				"rank": 41,
+				"name": "Jessica Aka Snoop",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 876,
+				"value": 11132611429
+			},
+			{
+				"rank": 42,
+				"name": "Grzesio rasiak",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 869,
+				"value": 10878787221
+			},
+			{
+				"rank": 43,
+				"name": "Mad Mila",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 858,
+				"value": 10466573724
+			},
+			{
+				"rank": 44,
+				"name": "Bo Vincencik",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 856,
+				"value": 10381067332
+			},
+			{
+				"rank": 45,
+				"name": "Lutises",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 854,
+				"value": 10332587707
+			},
+			{
+				"rank": 46,
+				"name": "Kapton",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 847,
+				"value": 10064941328
+			},
+			{
+				"rank": 47,
+				"name": "Diemagierin",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 840,
+				"value": 9829974303
+			},
+			{
+				"rank": 48,
+				"name": "Vraxoz",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 835,
+				"value": 9647512461
+			},
+			{
+				"rank": 49,
+				"name": "Kaamol",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 833,
+				"value": 9598871398
+			},
+			{
+				"rank": 50,
+				"name": "Masflamy",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 830,
+				"value": 9473190720
+			}
+		],
+		"highscore_page": {
+			"current_page": 1,
+			"total_pages": 20,
+			"total_records": 1000
+		}
+	},
+	"information": {
+		"api": {
+			"version": 4,
+			"release": "edge",
+			"commit": "58233948156fe25e8ae3509f8b0010364fe0c42d"
+		},
+		"status": {
+			"http_code": 200
+		}
+	}
+}
