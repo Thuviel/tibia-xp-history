@@ -9,16 +9,16 @@
 				"name": "Epus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1677,
-				"value": 78444913784
+				"level": 1678,
+				"value": 78481093580
 			},
 			{
 				"rank": 2,
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1595,
-				"value": 67426485419
+				"level": 1596,
+				"value": 67544231850
 			},
 			{
 				"rank": 3,
@@ -41,16 +41,16 @@
 				"name": "Panwierzba",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1344,
-				"value": 40326795156
+				"level": 1345,
+				"value": 40434464672
 			},
 			{
 				"rank": 6,
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1310,
-				"value": 37335730123
+				"level": 1311,
+				"value": 37390794408
 			},
 			{
 				"rank": 7,
@@ -62,14 +62,6 @@
 			},
 			{
 				"rank": 8,
-				"name": "Dadizon",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1251,
-				"value": 32527329403
-			},
-			{
-				"rank": 9,
 				"name": "Saiintu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -77,20 +69,28 @@
 				"value": 32510715506
 			},
 			{
+				"rank": 9,
+				"name": "Dadizon",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1250,
+				"value": 32456388092
+			},
+			{
 				"rank": 10,
 				"name": "Quakkap",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1244,
-				"value": 31982089122
+				"level": 1245,
+				"value": 32016730935
 			},
 			{
 				"rank": 11,
 				"name": "Gandalf Joe",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1222,
-				"value": 30280693755
+				"level": 1223,
+				"value": 30353582692
 			},
 			{
 				"rank": 12,
@@ -105,8 +105,8 @@
 				"name": "Magicallse",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1190,
-				"value": 28011446177
+				"level": 1191,
+				"value": 28035618564
 			},
 			{
 				"rank": 14,
@@ -114,7 +114,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1189,
-				"value": 27904312269
+				"value": 27904761618
 			},
 			{
 				"rank": 15,
@@ -122,7 +122,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1183,
-				"value": 27458229266
+				"value": 27484492562
 			},
 			{
 				"rank": 16,
@@ -130,15 +130,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1148,
-				"value": 25091225582
+				"value": 25103154464
 			},
 			{
 				"rank": 17,
 				"name": "Krasyy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1130,
-				"value": 23943905100
+				"level": 1131,
+				"value": 23985017893
 			},
 			{
 				"rank": 18,
@@ -146,7 +146,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1120,
-				"value": 23322137753
+				"value": 23322137843
 			},
 			{
 				"rank": 19,
@@ -162,23 +162,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1075,
-				"value": 20630673407
+				"value": 20632325836
 			},
 			{
 				"rank": 21,
 				"name": "Chokemon Ariel",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1053,
-				"value": 19374182138
+				"level": 1054,
+				"value": 19404982909
 			},
 			{
 				"rank": 22,
 				"name": "Berglin",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1043,
-				"value": 18824787378
+				"level": 1042,
+				"value": 18798209038
 			},
 			{
 				"rank": 23,
@@ -210,7 +210,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1026,
-				"value": 17898917453
+				"value": 17941269147
 			},
 			{
 				"rank": 27,
@@ -226,7 +226,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1018,
-				"value": 17512132949
+				"value": 17526909869
 			},
 			{
 				"rank": 29,
@@ -242,15 +242,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 996,
-				"value": 16403716668
+				"value": 16414294535
 			},
 			{
 				"rank": 31,
 				"name": "Jessica Aka Snoop",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 976,
-				"value": 15424016522
+				"level": 977,
+				"value": 15449236025
 			},
 			{
 				"rank": 32,
@@ -265,16 +265,16 @@
 				"name": "Legend Sinjestar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 965,
-				"value": 14915914298
+				"level": 966,
+				"value": 14961091281
 			},
 			{
 				"rank": 34,
 				"name": "Fardar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 958,
-				"value": 14583386623
+				"level": 959,
+				"value": 14624911980
 			},
 			{
 				"rank": 35,
@@ -298,7 +298,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 932,
-				"value": 13428745430
+				"value": 13437266248
 			},
 			{
 				"rank": 38,
@@ -322,7 +322,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 910,
-				"value": 12493480952
+				"value": 12493610028
 			},
 			{
 				"rank": 41,
@@ -338,7 +338,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 897,
-				"value": 11957990588
+				"value": 11961582008
 			},
 			{
 				"rank": 43,
@@ -346,7 +346,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 895,
-				"value": 11904505155
+				"value": 11904764570
 			},
 			{
 				"rank": 44,
@@ -354,7 +354,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 866,
-				"value": 10782482774
+				"value": 10782483347
 			},
 			{
 				"rank": 45,
@@ -385,8 +385,8 @@
 				"name": "Kapton",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 847,
-				"value": 10081003883
+				"level": 848,
+				"value": 10091966653
 			},
 			{
 				"rank": 49,
@@ -402,7 +402,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 840,
-				"value": 9839012493
+				"value": 9839140245
 			}
 		],
 		"highscore_page": {
@@ -414,8 +414,8 @@
 	"information": {
 		"api": {
 			"version": 4,
-			"release": "4.1.0",
-			"commit": "c06d4164dc6aaef0db77bf959feb3934ce290f77"
+			"release": "4.1.1",
+			"commit": "bee8d33839631c132274e4e63caf9c7dd602c4bb"
 		},
 		"status": {
 			"http_code": 200
