@@ -10,15 +10,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1678,
-				"value": 78538300671
+				"value": 78578812122
 			},
 			{
 				"rank": 2,
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1596,
-				"value": 67626883629
+				"level": 1598,
+				"value": 67764893396
 			},
 			{
 				"rank": 3,
@@ -49,8 +49,8 @@
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1311,
-				"value": 37439812910
+				"level": 1312,
+				"value": 37520268237
 			},
 			{
 				"rank": 7,
@@ -62,6 +62,14 @@
 			},
 			{
 				"rank": 8,
+				"name": "Dadizon",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1252,
+				"value": 32553194472
+			},
+			{
+				"rank": 9,
 				"name": "Saiintu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -69,28 +77,20 @@
 				"value": 32510715506
 			},
 			{
-				"rank": 9,
-				"name": "Dadizon",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1250,
-				"value": 32456388092
-			},
-			{
 				"rank": 10,
 				"name": "Quakkap",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1245,
-				"value": 32022528877
+				"value": 32048530390
 			},
 			{
 				"rank": 11,
 				"name": "Gandalf Joe",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1224,
-				"value": 30446335479
+				"level": 1225,
+				"value": 30536413246
 			},
 			{
 				"rank": 12,
@@ -106,31 +106,31 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1191,
-				"value": 28052838514
+				"value": 28066556319
 			},
 			{
 				"rank": 14,
 				"name": "Nicol",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1189,
-				"value": 27943285175
+				"level": 1190,
+				"value": 27971271217
 			},
 			{
 				"rank": 15,
 				"name": "Metal Onix",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1183,
-				"value": 27508859482
+				"level": 1182,
+				"value": 27427129225
 			},
 			{
 				"rank": 16,
 				"name": "Vaparir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1148,
-				"value": 25131102130
+				"level": 1147,
+				"value": 25075061890
 			},
 			{
 				"rank": 17,
@@ -146,7 +146,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1120,
-				"value": 23322274632
+				"value": 23322388385
 			},
 			{
 				"rank": 19,
@@ -154,7 +154,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1081,
-				"value": 20971026062
+				"value": 20994014220
 			},
 			{
 				"rank": 20,
@@ -162,23 +162,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1075,
-				"value": 20632553458
+				"value": 20633383849
 			},
 			{
 				"rank": 21,
 				"name": "Chokemon Ariel",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1054,
-				"value": 19422838374
+				"level": 1055,
+				"value": 19460198205
 			},
 			{
 				"rank": 22,
 				"name": "Berglin",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1043,
-				"value": 18828878049
+				"level": 1044,
+				"value": 18885958622
 			},
 			{
 				"rank": 23,
@@ -226,7 +226,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1019,
-				"value": 17537624314
+				"value": 17547986305
 			},
 			{
 				"rank": 29,
@@ -241,24 +241,24 @@
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 997,
-				"value": 16427759875
+				"level": 998,
+				"value": 16471617256
 			},
 			{
 				"rank": 31,
 				"name": "Jessica Aka Snoop",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 977,
-				"value": 15482678555
+				"level": 978,
+				"value": 15514759925
 			},
 			{
 				"rank": 32,
 				"name": "Legend Sinjestar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 967,
-				"value": 15012644508
+				"level": 969,
+				"value": 15076650145
 			},
 			{
 				"rank": 33,
@@ -274,7 +274,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 960,
-				"value": 14667295636
+				"value": 14694412103
 			},
 			{
 				"rank": 35,
@@ -298,7 +298,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 932,
-				"value": 13438103568
+				"value": 13438555913
 			},
 			{
 				"rank": 38,
@@ -322,7 +322,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 910,
-				"value": 12493685167
+				"value": 12494835659
 			},
 			{
 				"rank": 41,
@@ -338,7 +338,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 897,
-				"value": 11961582008
+				"value": 11961773918
 			},
 			{
 				"rank": 43,
@@ -354,7 +354,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 866,
-				"value": 10782901147
+				"value": 10783484205
 			},
 			{
 				"rank": 45,
