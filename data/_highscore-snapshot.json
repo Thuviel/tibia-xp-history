@@ -9,16 +9,16 @@
 				"name": "Epus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1693,
-				"value": 80681742795
+				"level": 1694,
+				"value": 80813256678
 			},
 			{
 				"rank": 2,
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1623,
-				"value": 71069209602
+				"level": 1625,
+				"value": 71335014989
 			},
 			{
 				"rank": 3,
@@ -41,24 +41,24 @@
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1342,
-				"value": 40118642965
+				"level": 1346,
+				"value": 40520337384
 			},
 			{
 				"rank": 6,
 				"name": "Dadizon",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1305,
-				"value": 36945700532
+				"level": 1308,
+				"value": 37165352574
 			},
 			{
 				"rank": 7,
 				"name": "Gandalf Joe",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1264,
-				"value": 33563295146
+				"level": 1267,
+				"value": 33774310002
 			},
 			{
 				"rank": 8,
@@ -73,8 +73,8 @@
 				"name": "Ykk",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1260,
-				"value": 33242798037
+				"level": 1261,
+				"value": 33310894602
 			},
 			{
 				"rank": 10,
@@ -97,8 +97,8 @@
 				"name": "Nicol",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1200,
-				"value": 28718076310
+				"level": 1201,
+				"value": 28783596294
 			},
 			{
 				"rank": 13,
@@ -106,23 +106,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1200,
-				"value": 28669994792
+				"value": 28711739395
 			},
 			{
 				"rank": 14,
 				"name": "Og Kiedos",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1184,
-				"value": 27567421663
+				"level": 1186,
+				"value": 27683175301
 			},
 			{
 				"rank": 15,
 				"name": "Vaparir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1166,
-				"value": 26324834334
+				"level": 1169,
+				"value": 26502163151
 			},
 			{
 				"rank": 16,
@@ -130,7 +130,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1120,
-				"value": 23324098637
+				"value": 23324102432
 			},
 			{
 				"rank": 17,
@@ -146,47 +146,47 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1077,
-				"value": 20706605610
+				"value": 20706759980
 			},
 			{
 				"rank": 19,
 				"name": "Chokemon Ariel",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1071,
-				"value": 20369634801
+				"level": 1072,
+				"value": 20418665012
 			},
 			{
 				"rank": 20,
 				"name": "Berglin",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1068,
-				"value": 20225369369
+				"level": 1071,
+				"value": 20385287817
 			},
 			{
 				"rank": 21,
 				"name": "Umeex",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1049,
-				"value": 19167608246
+				"level": 1051,
+				"value": 19272399921
 			},
 			{
 				"rank": 22,
 				"name": "Robin Kint",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1047,
-				"value": 19028928075
+				"level": 1049,
+				"value": 19147213818
 			},
 			{
 				"rank": 23,
 				"name": "Gunner Konrad",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1040,
-				"value": 18664832108
+				"level": 1041,
+				"value": 18695372330
 			},
 			{
 				"rank": 24,
@@ -198,19 +198,19 @@
 			},
 			{
 				"rank": 25,
-				"name": "Dantelix",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1032,
-				"value": 18257268633
-			},
-			{
-				"rank": 26,
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1032,
-				"value": 18212419019
+				"level": 1034,
+				"value": 18360070441
+			},
+			{
+				"rank": 26,
+				"name": "Dantelix",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1033,
+				"value": 18272222870
 			},
 			{
 				"rank": 27,
@@ -222,19 +222,19 @@
 			},
 			{
 				"rank": 28,
+				"name": "Jessica Aka Snoop",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1001,
+				"value": 16637883232
+			},
+			{
+				"rank": 29,
 				"name": "Sklejkovvy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1001,
 				"value": 16635994673
-			},
-			{
-				"rank": 29,
-				"name": "Jessica Aka Snoop",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 999,
-				"value": 16521487388
 			},
 			{
 				"rank": 30,
@@ -249,8 +249,8 @@
 				"name": "Fardar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 979,
-				"value": 15557409144
+				"level": 981,
+				"value": 15641031895
 			},
 			{
 				"rank": 32,
@@ -262,6 +262,14 @@
 			},
 			{
 				"rank": 33,
+				"name": "Eme Caesar",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 958,
+				"value": 14567152726
+			},
+			{
+				"rank": 34,
 				"name": "Tito Garci",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -269,20 +277,12 @@
 				"value": 14427460329
 			},
 			{
-				"rank": 34,
-				"name": "Eme Caesar",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 955,
-				"value": 14426530478
-			},
-			{
 				"rank": 35,
 				"name": "Eu Dei Uh",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 927,
-				"value": 13192691009
+				"value": 13192691294
 			},
 			{
 				"rank": 36,
@@ -322,15 +322,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 897,
-				"value": 11959750405
+				"value": 11980520816
 			},
 			{
 				"rank": 41,
 				"name": "Nawalony Mage",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 894,
-				"value": 11841561494
+				"level": 896,
+				"value": 11936894286
 			},
 			{
 				"rank": 42,
@@ -378,7 +378,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 824,
-				"value": 9276579956
+				"value": 9276705887
 			},
 			{
 				"rank": 48,
