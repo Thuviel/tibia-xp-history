@@ -10,7 +10,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1698,
-				"value": 81352826325
+				"value": 81401468374
 			},
 			{
 				"rank": 2,
@@ -18,7 +18,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1629,
-				"value": 71891429425
+				"value": 71891429739
 			},
 			{
 				"rank": 3,
@@ -26,15 +26,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1366,
-				"value": 42336363341
+				"value": 42344106954
 			},
 			{
 				"rank": 4,
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1358,
-				"value": 41589014849
+				"level": 1359,
+				"value": 41693652459
 			},
 			{
 				"rank": 5,
@@ -42,23 +42,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1320,
-				"value": 38205027486
+				"value": 38238487689
 			},
 			{
 				"rank": 6,
 				"name": "Gandalf Joe",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1274,
-				"value": 34360172171
+				"level": 1276,
+				"value": 34495365741
 			},
 			{
 				"rank": 7,
 				"name": "Quakkap",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1270,
-				"value": 34021079317
+				"level": 1271,
+				"value": 34065641878
 			},
 			{
 				"rank": 8,
@@ -90,7 +90,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1201,
-				"value": 28748343896
+				"value": 28770977770
 			},
 			{
 				"rank": 12,
@@ -105,8 +105,8 @@
 				"name": "Vaparir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1171,
-				"value": 26648902794
+				"level": 1169,
+				"value": 26538059963
 			},
 			{
 				"rank": 14,
@@ -114,7 +114,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1120,
-				"value": 23328613513
+				"value": 23328904964
 			},
 			{
 				"rank": 15,
@@ -138,7 +138,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1077,
-				"value": 20721413113
+				"value": 20722877831
 			},
 			{
 				"rank": 18,
@@ -153,8 +153,8 @@
 				"name": "Umeex",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1057,
-				"value": 19590732780
+				"level": 1058,
+				"value": 19637836635
 			},
 			{
 				"rank": 20,
@@ -169,11 +169,19 @@
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1043,
-				"value": 18853937985
+				"level": 1044,
+				"value": 18879345922
 			},
 			{
 				"rank": 22,
+				"name": "Gunner Konrad",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1039,
+				"value": 18612861145
+			},
+			{
+				"rank": 23,
 				"name": "Anna Alexy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -181,20 +189,12 @@
 				"value": 18607062705
 			},
 			{
-				"rank": 23,
-				"name": "Gunner Konrad",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1039,
-				"value": 18602257448
-			},
-			{
 				"rank": 24,
 				"name": "Dantelix",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1034,
-				"value": 18354064440
+				"level": 1035,
+				"value": 18372931666
 			},
 			{
 				"rank": 25,
@@ -225,16 +225,16 @@
 				"name": "Legend Sinjestar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 989,
-				"value": 16041139599
+				"level": 990,
+				"value": 16089701382
 			},
 			{
 				"rank": 29,
 				"name": "Fardar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 988,
-				"value": 16021484675
+				"level": 989,
+				"value": 16064320563
 			},
 			{
 				"rank": 30,
@@ -250,7 +250,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 963,
-				"value": 14812277699
+				"value": 14823755121
 			},
 			{
 				"rank": 32,
@@ -401,8 +401,8 @@
 				"name": "Temir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 802,
-				"value": 8563312015
+				"level": 803,
+				"value": 8569026280
 			}
 		],
 		"highscore_page": {
