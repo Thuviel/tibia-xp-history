@@ -30,8 +30,17 @@ const matchesSnapshot = async (todaysSnapshot) => {
 	return JSON.stringify(yesterdaysSnapshot) === JSON.stringify(todaysSnapshot);
 };
 
+const sleep = (timeout) => {
+	return new Promise((resolve, reject) => {
+		setTimeout(() => {
+			resolve();
+		}, timeout);
+	});
+};
+
 const getHighscoreData = async (page = 1) => {
 	const url = `https://dev.tibiadata.com/v4/highscores/Vunira/experience/sorcerers/${page}`;
+	console.log(url);
 	const response = await fetch(url);
 	const data = await response.json();
 
@@ -65,6 +74,7 @@ const getHighscoreData = async (page = 1) => {
 			return {rank, level, experience};
 		}
 	}
+	await sleep(1000);
 	return getHighscoreData(page + 1);
 };
 
