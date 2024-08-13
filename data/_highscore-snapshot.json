@@ -10,31 +10,31 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1725,
-				"value": 85334009880
+				"value": 85377167834
 			},
 			{
 				"rank": 2,
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1678,
-				"value": 78545976655
+				"level": 1679,
+				"value": 78664645004
 			},
 			{
 				"rank": 3,
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1444,
-				"value": 50025545532
+				"level": 1445,
+				"value": 50150443421
 			},
 			{
 				"rank": 4,
 				"name": "Dadizon",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1391,
-				"value": 44746368363
+				"level": 1393,
+				"value": 44878578700
 			},
 			{
 				"rank": 5,
@@ -42,7 +42,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1365,
-				"value": 42293110667
+				"value": 42293187570
 			},
 			{
 				"rank": 6,
@@ -57,8 +57,8 @@
 				"name": "Toldiix",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1331,
-				"value": 39194809433
+				"level": 1332,
+				"value": 39289255659
 			},
 			{
 				"rank": 8,
@@ -129,24 +129,24 @@
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1116,
-				"value": 23059633358
+				"level": 1117,
+				"value": 23111048536
 			},
 			{
 				"rank": 17,
 				"name": "Grapleer",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1111,
-				"value": 22791168450
+				"level": 1113,
+				"value": 22864017094
 			},
 			{
 				"rank": 18,
 				"name": "Daisuki Ito",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1102,
-				"value": 22238875453
+				"level": 1103,
+				"value": 22244333460
 			},
 			{
 				"rank": 19,
@@ -154,15 +154,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1101,
-				"value": 22143710129
+				"value": 22172627215
 			},
 			{
 				"rank": 20,
 				"name": "Robin Kint",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1089,
-				"value": 21448667545
+				"level": 1090,
+				"value": 21505861269
 			},
 			{
 				"rank": 21,
@@ -170,7 +170,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1078,
-				"value": 20805574842
+				"value": 20808623192
 			},
 			{
 				"rank": 22,
@@ -178,7 +178,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1054,
-				"value": 19410556695
+				"value": 19420476143
 			},
 			{
 				"rank": 23,
@@ -258,7 +258,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 986,
-				"value": 15914736528
+				"value": 15918023734
 			},
 			{
 				"rank": 33,
@@ -266,7 +266,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 961,
-				"value": 14709660994
+				"value": 14737091958
 			},
 			{
 				"rank": 34,
@@ -329,8 +329,8 @@
 				"name": "Albi Balbi",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 867,
-				"value": 10794114526
+				"level": 868,
+				"value": 10825421711
 			},
 			{
 				"rank": 42,
@@ -354,7 +354,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 842,
-				"value": 9891741362
+				"value": 9892564002
 			},
 			{
 				"rank": 45,
@@ -362,7 +362,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 840,
-				"value": 9826859303
+				"value": 9829944608
 			},
 			{
 				"rank": 46,
@@ -370,7 +370,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 827,
-				"value": 9381627767
+				"value": 9389564286
 			},
 			{
 				"rank": 47,
@@ -386,15 +386,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 822,
-				"value": 9196390576
+				"value": 9212389035
 			},
 			{
 				"rank": 49,
 				"name": "Horon Aoldas",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 817,
-				"value": 9043976073
+				"level": 818,
+				"value": 9059737323
 			},
 			{
 				"rank": 50,
@@ -415,7 +415,7 @@
 		"api": {
 			"version": 4,
 			"release": "edge",
-			"commit": "bdcee7a1c6f7e892950895843893aa0b9ad33bc2"
+			"commit": "070083110f9902ddd91eff605811badcce739dc0"
 		},
 		"status": {
 			"http_code": 200
