@@ -10,31 +10,31 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1727,
-				"value": 85562245262
+				"value": 85609405602
 			},
 			{
 				"rank": 2,
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1683,
-				"value": 79194469823
+				"level": 1684,
+				"value": 79343504309
 			},
 			{
 				"rank": 3,
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1449,
-				"value": 50583115992
+				"level": 1451,
+				"value": 50749124367
 			},
 			{
 				"rank": 4,
 				"name": "Dadizon",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1399,
-				"value": 45446490832
+				"level": 1400,
+				"value": 45591999146
 			},
 			{
 				"rank": 5,
@@ -57,8 +57,8 @@
 				"name": "Toldiix",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1337,
-				"value": 39706620591
+				"level": 1338,
+				"value": 39794083863
 			},
 			{
 				"rank": 8,
@@ -82,7 +82,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1226,
-				"value": 30594354620
+				"value": 30604447689
 			},
 			{
 				"rank": 11,
@@ -90,7 +90,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1214,
-				"value": 29691000866
+				"value": 29727403120
 			},
 			{
 				"rank": 12,
@@ -98,15 +98,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1204,
-				"value": 29006953545
+				"value": 29007471160
 			},
 			{
 				"rank": 13,
 				"name": "Vaparir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1192,
-				"value": 28133843544
+				"level": 1193,
+				"value": 28157690522
 			},
 			{
 				"rank": 14,
@@ -121,8 +121,8 @@
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1120,
-				"value": 23347159838
+				"level": 1121,
+				"value": 23391285648
 			},
 			{
 				"rank": 16,
@@ -130,7 +130,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1120,
-				"value": 23344026559
+				"value": 23344095588
 			},
 			{
 				"rank": 17,
@@ -154,15 +154,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1103,
-				"value": 22270672422
+				"value": 22270672498
 			},
 			{
 				"rank": 20,
 				"name": "Robin Kint",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1092,
-				"value": 21625410203
+				"level": 1093,
+				"value": 21687568888
 			},
 			{
 				"rank": 21,
@@ -170,7 +170,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1078,
-				"value": 20812837949
+				"value": 20814024355
 			},
 			{
 				"rank": 22,
@@ -178,7 +178,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1055,
-				"value": 19474972320
+				"value": 19510331365
 			},
 			{
 				"rank": 23,
@@ -258,7 +258,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 987,
-				"value": 15931351613
+				"value": 15932885720
 			},
 			{
 				"rank": 33,
@@ -321,16 +321,16 @@
 				"name": "Biddi",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 898,
-				"value": 12026542561
+				"level": 899,
+				"value": 12031025083
 			},
 			{
 				"rank": 41,
 				"name": "Albi Balbi",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 869,
-				"value": 10887476140
+				"level": 870,
+				"value": 10910415801
 			},
 			{
 				"rank": 42,
@@ -377,8 +377,8 @@
 				"name": "Gnoors",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 824,
-				"value": 9285147118
+				"level": 825,
+				"value": 9295410505
 			},
 			{
 				"rank": 48,
@@ -393,16 +393,16 @@
 				"name": "Horon Aoldas",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 821,
-				"value": 9184294578
+				"level": 823,
+				"value": 9228163659
 			},
 			{
 				"rank": 50,
 				"name": "Daamager",
-				"vocation": "Sorcerer",
+				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 816,
-				"value": 9016776710
+				"value": 9018190952
 			}
 		],
 		"highscore_page": {
