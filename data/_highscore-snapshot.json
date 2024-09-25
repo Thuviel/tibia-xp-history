@@ -9,24 +9,24 @@
 				"name": "Epus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1741,
-				"value": 87777271163
+				"level": 1742,
+				"value": 87821111898
 			},
 			{
 				"rank": 2,
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1720,
-				"value": 84522191877
+				"level": 1721,
+				"value": 84676931587
 			},
 			{
 				"rank": 3,
 				"name": "Zarmalus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1502,
-				"value": 56300396713
+				"level": 1503,
+				"value": 56457578019
 			},
 			{
 				"rank": 4,
@@ -41,8 +41,8 @@
 				"name": "Toldiix",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1375,
-				"value": 43143574295
+				"level": 1376,
+				"value": 43257858283
 			},
 			{
 				"rank": 6,
@@ -50,7 +50,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1368,
-				"value": 42492112815
+				"value": 42493962498
 			},
 			{
 				"rank": 7,
@@ -73,24 +73,24 @@
 				"name": "Nicol",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1251,
-				"value": 32511432440
+				"level": 1252,
+				"value": 32581962284
 			},
 			{
 				"rank": 10,
 				"name": "Og Kiedos",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1236,
-				"value": 31385240444
+				"level": 1235,
+				"value": 31262710117
 			},
 			{
 				"rank": 11,
 				"name": "Vaparir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1216,
-				"value": 29836497270
+				"level": 1217,
+				"value": 29914762389
 			},
 			{
 				"rank": 12,
@@ -105,8 +105,8 @@
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1157,
-				"value": 25721326574
+				"level": 1159,
+				"value": 25815908721
 			},
 			{
 				"rank": 14,
@@ -121,16 +121,16 @@
 				"name": "Robin Kint",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1127,
-				"value": 23760984550
+				"level": 1128,
+				"value": 23825372213
 			},
 			{
 				"rank": 16,
 				"name": "Umeex",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1125,
-				"value": 23647877798
+				"level": 1126,
+				"value": 23711797500
 			},
 			{
 				"rank": 17,
@@ -138,23 +138,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1123,
-				"value": 23480208552
+				"value": 23480354962
 			},
 			{
 				"rank": 18,
-				"name": "Grapleer",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1120,
-				"value": 23339323002
-			},
-			{
-				"rank": 19,
 				"name": "Daisuki Ito",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1119,
-				"value": 23268731352
+				"level": 1122,
+				"value": 23450042105
+			},
+			{
+				"rank": 19,
+				"name": "Grapleer",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1121,
+				"value": 23380292483
 			},
 			{
 				"rank": 20,
@@ -162,15 +162,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1081,
-				"value": 20961051360
+				"value": 20961155664
 			},
 			{
 				"rank": 21,
 				"name": "Dantelix",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1068,
-				"value": 20194871108
+				"level": 1067,
+				"value": 20162955562
 			},
 			{
 				"rank": 22,
@@ -178,7 +178,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1056,
-				"value": 19536192769
+				"value": 19565495950
 			},
 			{
 				"rank": 23,
@@ -201,8 +201,8 @@
 				"name": "Legend Sinjestar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1042,
-				"value": 18798174926
+				"level": 1045,
+				"value": 18915368989
 			},
 			{
 				"rank": 26,
@@ -217,16 +217,16 @@
 				"name": "Revanne",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1032,
-				"value": 18252761394
+				"level": 1034,
+				"value": 18328359386
 			},
 			{
 				"rank": 28,
 				"name": "Fardar",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1023,
-				"value": 17784372086
+				"level": 1024,
+				"value": 17795401880
 			},
 			{
 				"rank": 29,
@@ -242,7 +242,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1005,
-				"value": 16855268962
+				"value": 16864349302
 			},
 			{
 				"rank": 31,
@@ -250,7 +250,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 989,
-				"value": 16064693088
+				"value": 16066418931
 			},
 			{
 				"rank": 32,
@@ -321,16 +321,16 @@
 				"name": "Albi Balbi",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 886,
-				"value": 11549164330
+				"level": 887,
+				"value": 11583715635
 			},
 			{
 				"rank": 41,
 				"name": "Horon Aoldas",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 855,
-				"value": 10354424556
+				"level": 856,
+				"value": 10410608906
 			},
 			{
 				"rank": 42,
@@ -362,15 +362,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 842,
-				"value": 9878670603
+				"value": 9888547085
 			},
 			{
 				"rank": 46,
 				"name": "Roffaline",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 839,
-				"value": 9789275806
+				"level": 840,
+				"value": 9815258269
 			},
 			{
 				"rank": 47,
@@ -393,8 +393,8 @@
 				"name": "Dajy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 821,
-				"value": 9180345906
+				"level": 822,
+				"value": 9200778512
 			},
 			{
 				"rank": 50,
