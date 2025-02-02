@@ -9,8 +9,8 @@
 				"name": "Epus",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1778,
-				"value": 93504547137
+				"level": 1779,
+				"value": 93530566252
 			},
 			{
 				"rank": 2,
@@ -34,7 +34,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1307,
-				"value": 37060136875
+				"value": 37115860860
 			},
 			{
 				"rank": 5,
@@ -50,15 +50,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1262,
-				"value": 33340289603
+				"value": 33348022837
 			},
 			{
 				"rank": 7,
 				"name": "Vaparir",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1258,
-				"value": 33079890846
+				"level": 1259,
+				"value": 33111922491
 			},
 			{
 				"rank": 8,
@@ -66,7 +66,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1255,
-				"value": 32849828221
+				"value": 32864426047
 			},
 			{
 				"rank": 9,
@@ -74,15 +74,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1212,
-				"value": 29550469929
+				"value": 29550477868
 			},
 			{
 				"rank": 10,
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1207,
-				"value": 29195187091
+				"level": 1208,
+				"value": 29250534898
 			},
 			{
 				"rank": 11,
@@ -94,19 +94,19 @@
 			},
 			{
 				"rank": 12,
+				"name": "Daisuki Ito",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1163,
+				"value": 26133247440
+			},
+			{
+				"rank": 13,
 				"name": "Grapleer",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1163,
 				"value": 26098594386
-			},
-			{
-				"rank": 13,
-				"name": "Daisuki Ito",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1162,
-				"value": 26071794920
 			},
 			{
 				"rank": 14,
@@ -118,6 +118,14 @@
 			},
 			{
 				"rank": 15,
+				"name": "Hardcor",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1128,
+				"value": 23813892000
+			},
+			{
+				"rank": 16,
 				"name": "Hard Corr",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -125,20 +133,12 @@
 				"value": 23810150595
 			},
 			{
-				"rank": 16,
-				"name": "Hardcor",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1127,
-				"value": 23782292997
-			},
-			{
 				"rank": 17,
 				"name": "Mageerushh",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1121,
-				"value": 23355859375
+				"value": 23412011330
 			},
 			{
 				"rank": 18,
@@ -146,7 +146,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1115,
-				"value": 23023879885
+				"value": 23032107497
 			},
 			{
 				"rank": 19,
@@ -154,7 +154,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1104,
-				"value": 22305881063
+				"value": 22320904665
 			},
 			{
 				"rank": 20,
@@ -170,15 +170,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1083,
-				"value": 21086584743
+				"value": 21086830817
 			},
 			{
 				"rank": 22,
 				"name": "Skibidi Cooking",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1082,
-				"value": 21023797985
+				"level": 1083,
+				"value": 21084587500
 			},
 			{
 				"rank": 23,
@@ -186,7 +186,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1073,
-				"value": 20478294094
+				"value": 20483979773
 			},
 			{
 				"rank": 24,
@@ -194,7 +194,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1071,
-				"value": 20373903479
+				"value": 20392029767
 			},
 			{
 				"rank": 25,
@@ -210,7 +210,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1064,
-				"value": 19993064189
+				"value": 19994301425
 			},
 			{
 				"rank": 27,
@@ -218,7 +218,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1063,
-				"value": 19926689329
+				"value": 19943015554
 			},
 			{
 				"rank": 28,
@@ -250,7 +250,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 990,
-				"value": 16115654397
+				"value": 16115793785
 			},
 			{
 				"rank": 32,
@@ -258,15 +258,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 985,
-				"value": 15865436363
+				"value": 15865742355
 			},
 			{
 				"rank": 33,
 				"name": "Horon Aoldas",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 982,
-				"value": 15709707820
+				"level": 983,
+				"value": 15777945442
 			},
 			{
 				"rank": 34,
@@ -274,7 +274,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 978,
-				"value": 15519807137
+				"value": 15521018684
 			},
 			{
 				"rank": 35,
@@ -289,8 +289,8 @@
 				"name": "Illmu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 949,
-				"value": 14181202510
+				"level": 950,
+				"value": 14238466028
 			},
 			{
 				"rank": 37,
@@ -298,7 +298,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 945,
-				"value": 14007150802
+				"value": 14007412354
 			},
 			{
 				"rank": 38,
@@ -338,7 +338,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 905,
-				"value": 12302002114
+				"value": 12302056582
 			},
 			{
 				"rank": 43,
@@ -346,7 +346,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 889,
-				"value": 11638072923
+				"value": 11667209213
 			},
 			{
 				"rank": 44,
@@ -377,24 +377,24 @@
 				"name": "Szulcerer",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 871,
-				"value": 10969314938
+				"level": 872,
+				"value": 10989133284
 			},
 			{
 				"rank": 48,
 				"name": "Gustavo Loco",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 867,
-				"value": 10811819146
+				"level": 868,
+				"value": 10842001067
 			},
 			{
 				"rank": 49,
 				"name": "Dajy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 854,
-				"value": 10324380714
+				"level": 853,
+				"value": 10297854733
 			},
 			{
 				"rank": 50,
