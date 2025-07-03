@@ -10,7 +10,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1842,
-				"value": 103848787243
+				"value": 103863591266
 			},
 			{
 				"rank": 2,
@@ -18,7 +18,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1809,
-				"value": 98392968931
+				"value": 98451297055
 			},
 			{
 				"rank": 3,
@@ -34,23 +34,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1530,
-				"value": 59493338710
+				"value": 59569104373
 			},
 			{
 				"rank": 5,
 				"name": "Myroslav",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1517,
-				"value": 58067270556
+				"level": 1519,
+				"value": 58276275597
 			},
 			{
 				"rank": 6,
 				"name": "Bigboy Damage",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1424,
-				"value": 47948727489
+				"level": 1425,
+				"value": 48066663197
 			},
 			{
 				"rank": 7,
@@ -66,15 +66,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1372,
-				"value": 42857213504
+				"value": 42923958662
 			},
 			{
 				"rank": 9,
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1310,
-				"value": 37361324463
+				"level": 1311,
+				"value": 37439306226
 			},
 			{
 				"rank": 10,
@@ -105,8 +105,8 @@
 				"name": "Daisuki Ito",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1220,
-				"value": 30186547176
+				"level": 1221,
+				"value": 30237611701
 			},
 			{
 				"rank": 14,
@@ -114,15 +114,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1214,
-				"value": 29735488904
+				"value": 29738088401
 			},
 			{
 				"rank": 15,
 				"name": "Grapleer",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1200,
-				"value": 28693304709
+				"level": 1201,
+				"value": 28746386199
 			},
 			{
 				"rank": 16,
@@ -146,7 +146,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1151,
-				"value": 25317569743
+				"value": 25323031798
 			},
 			{
 				"rank": 19,
@@ -154,23 +154,23 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1151,
-				"value": 25299043777
+				"value": 25303011919
 			},
 			{
 				"rank": 20,
+				"name": "Absolutne kino",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1151,
+				"value": 25283243888
+			},
+			{
+				"rank": 21,
 				"name": "Revanne",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1150,
 				"value": 25270314878
-			},
-			{
-				"rank": 21,
-				"name": "Absolutne kino",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1150,
-				"value": 25244732923
 			},
 			{
 				"rank": 22,
@@ -186,7 +186,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1094,
-				"value": 21758646650
+				"value": 21762546650
 			},
 			{
 				"rank": 24,
@@ -202,7 +202,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1083,
-				"value": 21055660857
+				"value": 21055756404
 			},
 			{
 				"rank": 26,
@@ -210,7 +210,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1075,
-				"value": 20616848824
+				"value": 20634814538
 			},
 			{
 				"rank": 27,
@@ -225,8 +225,8 @@
 				"name": "Illmu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1055,
-				"value": 19465655336
+				"level": 1056,
+				"value": 19541714452
 			},
 			{
 				"rank": 29,
@@ -266,7 +266,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1013,
-				"value": 17247407031
+				"value": 17248678799
 			},
 			{
 				"rank": 34,
@@ -281,8 +281,8 @@
 				"name": "Saintu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 996,
-				"value": 16415510055
+				"level": 997,
+				"value": 16443765926
 			},
 			{
 				"rank": 36,
@@ -290,7 +290,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 992,
-				"value": 16186229610
+				"value": 16186496054
 			},
 			{
 				"rank": 37,
@@ -321,8 +321,8 @@
 				"name": "Alia Goonsquad",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 950,
-				"value": 14228138722
+				"level": 952,
+				"value": 14297555218
 			},
 			{
 				"rank": 41,
@@ -338,15 +338,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 944,
-				"value": 13933250507
+				"value": 13970378815
 			},
 			{
 				"rank": 43,
 				"name": "Albi Balbi",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 940,
-				"value": 13780196115
+				"level": 941,
+				"value": 13823433420
 			},
 			{
 				"rank": 44,
@@ -362,7 +362,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 925,
-				"value": 13115539844
+				"value": 13115560094
 			},
 			{
 				"rank": 46,
@@ -378,10 +378,18 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 918,
-				"value": 12827349423
+				"value": 12831182321
 			},
 			{
 				"rank": 48,
+				"name": "Dajy",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 912,
+				"value": 12567131399
+			},
+			{
+				"rank": 49,
 				"name": "Grzesio rasiak",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -389,20 +397,12 @@
 				"value": 12566052454
 			},
 			{
-				"rank": 49,
+				"rank": 50,
 				"name": "Bo Vincencik",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 911,
 				"value": 12521143477
-			},
-			{
-				"rank": 50,
-				"name": "Dajy",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 910,
-				"value": 12504358127
 			}
 		],
 		"highscore_page": {
@@ -415,7 +415,7 @@
 		"api": {
 			"version": 4,
 			"release": "edge",
-			"commit": "acf11e28d68fb2ca314b532dc56a2e18c13d8d68"
+			"commit": "77897c1efc477feb4b7ff2e0cccfc6b60dfdfb02"
 		},
 		"tibia_urls": [
 			"https://www.tibia.com/community/?subtopic=highscores&world=Vunira&category=6&profession=4&currentpage=1"
