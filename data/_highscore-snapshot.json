@@ -9,8 +9,8 @@
 				"name": "Heinzinki",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1903,
-				"value": 114539603779
+				"level": 1904,
+				"value": 114808595241
 			},
 			{
 				"rank": 2,
@@ -18,47 +18,47 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1833,
-				"value": 102397525557
+				"value": 102435101856
 			},
 			{
 				"rank": 3,
 				"name": "Tatuazyyk",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1560,
-				"value": 63131967154
+				"level": 1562,
+				"value": 63324906748
 			},
 			{
 				"rank": 4,
 				"name": "Nicol",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1431,
-				"value": 48699701859
+				"level": 1433,
+				"value": 48870069228
 			},
 			{
 				"rank": 5,
 				"name": "Og Kiedos",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1412,
-				"value": 46794244253
+				"level": 1415,
+				"value": 47063600684
 			},
 			{
 				"rank": 6,
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1385,
-				"value": 44134327608
+				"level": 1387,
+				"value": 44284687246
 			},
 			{
 				"rank": 7,
 				"name": "Evol One",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1317,
-				"value": 37936720691
+				"level": 1319,
+				"value": 38086908383
 			},
 			{
 				"rank": 8,
@@ -90,15 +90,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1268,
-				"value": 33837662357
+				"value": 33877893018
 			},
 			{
 				"rank": 12,
 				"name": "Aka Nogueira",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1237,
-				"value": 31419059400
+				"level": 1239,
+				"value": 31561835779
 			},
 			{
 				"rank": 13,
@@ -113,16 +113,16 @@
 				"name": "Grapleer",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1220,
-				"value": 30164285626
+				"level": 1221,
+				"value": 30251221141
 			},
 			{
 				"rank": 15,
 				"name": "Berglin",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1205,
-				"value": 29055373507
+				"level": 1211,
+				"value": 29464493328
 			},
 			{
 				"rank": 16,
@@ -153,8 +153,8 @@
 				"name": "Illmu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1140,
-				"value": 24622829530
+				"level": 1143,
+				"value": 24818577373
 			},
 			{
 				"rank": 20,
@@ -178,7 +178,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1086,
-				"value": 21232282534
+				"value": 21256960138
 			},
 			{
 				"rank": 23,
@@ -186,7 +186,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1085,
-				"value": 21198346532
+				"value": 21198508710
 			},
 			{
 				"rank": 24,
@@ -206,6 +206,14 @@
 			},
 			{
 				"rank": 26,
+				"name": "Dzymekk",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1048,
+				"value": 19109666385
+			},
+			{
+				"rank": 27,
 				"name": "Xilian",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -213,20 +221,12 @@
 				"value": 19053927994
 			},
 			{
-				"rank": 27,
-				"name": "Dzymekk",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1045,
-				"value": 18918382603
-			},
-			{
 				"rank": 28,
 				"name": "Minusfour Azilonaccess",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1030,
-				"value": 18137819450
+				"level": 1031,
+				"value": 18194702651
 			},
 			{
 				"rank": 29,
@@ -238,19 +238,19 @@
 			},
 			{
 				"rank": 30,
-				"name": "Horon Aoldas",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1020,
-				"value": 17592692211
-			},
-			{
-				"rank": 31,
 				"name": "Gustavo Loco",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1018,
-				"value": 17514621898
+				"level": 1021,
+				"value": 17672845536
+			},
+			{
+				"rank": 31,
+				"name": "Horon Aoldas",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1021,
+				"value": 17652367789
 			},
 			{
 				"rank": 32,
@@ -266,7 +266,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1010,
-				"value": 17077424691
+				"value": 17109799080
 			},
 			{
 				"rank": 34,
@@ -274,15 +274,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 989,
-				"value": 16066295519
+				"value": 16066317503
 			},
 			{
 				"rank": 35,
 				"name": "Jidler",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 981,
-				"value": 15639097072
+				"level": 983,
+				"value": 15739348218
 			},
 			{
 				"rank": 36,
@@ -290,7 +290,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 980,
-				"value": 15625479777
+				"value": 15626857701
 			},
 			{
 				"rank": 37,
@@ -302,19 +302,19 @@
 			},
 			{
 				"rank": 38,
+				"name": "Dajy",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 961,
+				"value": 14734022497
+			},
+			{
+				"rank": 39,
 				"name": "Albi Balbi",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 960,
 				"value": 14697565888
-			},
-			{
-				"rank": 39,
-				"name": "Dajy",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 960,
-				"value": 14680896907
 			},
 			{
 				"rank": 40,
@@ -337,8 +337,8 @@
 				"name": "Rox Fox",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 941,
-				"value": 13840310141
+				"level": 944,
+				"value": 13949124469
 			},
 			{
 				"rank": 43,
@@ -377,16 +377,16 @@
 				"name": "Grzesio rasiak",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 915,
-				"value": 12705199597
+				"level": 916,
+				"value": 12739370019
 			},
 			{
 				"rank": 48,
 				"name": "Skurcz Wywolany Paralem",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 911,
-				"value": 12547738748
+				"level": 912,
+				"value": 12587223548
 			},
 			{
 				"rank": 49,
