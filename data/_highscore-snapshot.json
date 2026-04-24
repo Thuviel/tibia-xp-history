@@ -10,7 +10,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 2011,
-				"value": 135219524443
+				"value": 135299801352
 			},
 			{
 				"rank": 2,
@@ -18,7 +18,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1855,
-				"value": 106053991328
+				"value": 106078590306
 			},
 			{
 				"rank": 3,
@@ -34,7 +34,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1510,
-				"value": 57194826234
+				"value": 57245152473
 			},
 			{
 				"rank": 5,
@@ -50,7 +50,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1476,
-				"value": 53430671178
+				"value": 53461436486
 			},
 			{
 				"rank": 7,
@@ -65,8 +65,8 @@
 				"name": "Fael Seekndestroy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1406,
-				"value": 46202885579
+				"level": 1408,
+				"value": 46325557721
 			},
 			{
 				"rank": 9,
@@ -89,8 +89,8 @@
 				"name": "Aliarise",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1339,
-				"value": 39900928422
+				"level": 1340,
+				"value": 39922666194
 			},
 			{
 				"rank": 12,
@@ -121,16 +121,16 @@
 				"name": "Illmu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1273,
-				"value": 34273857915
+				"level": 1274,
+				"value": 34341973478
 			},
 			{
 				"rank": 16,
 				"name": "Grapleer",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1232,
-				"value": 31053569950
+				"level": 1233,
+				"value": 31100431871
 			},
 			{
 				"rank": 17,
@@ -154,7 +154,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1170,
-				"value": 26588246603
+				"value": 26621171711
 			},
 			{
 				"rank": 20,
@@ -162,7 +162,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1159,
-				"value": 25834509729
+				"value": 25875500631
 			},
 			{
 				"rank": 21,
@@ -209,8 +209,8 @@
 				"name": "Daarku",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1103,
-				"value": 22285824906
+				"level": 1104,
+				"value": 22305409435
 			},
 			{
 				"rank": 27,
@@ -226,7 +226,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1093,
-				"value": 21657318911
+				"value": 21657687737
 			},
 			{
 				"rank": 29,
@@ -242,7 +242,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1085,
-				"value": 21217120442
+				"value": 21219945662
 			},
 			{
 				"rank": 31,
@@ -266,7 +266,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1027,
-				"value": 17962634925
+				"value": 17965843285
 			},
 			{
 				"rank": 34,
@@ -290,7 +290,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1015,
-				"value": 17348485423
+				"value": 17362643001
 			},
 			{
 				"rank": 37,
@@ -305,8 +305,8 @@
 				"name": "Dajy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 995,
-				"value": 16338722615
+				"level": 996,
+				"value": 16375252138
 			},
 			{
 				"rank": 39,
@@ -314,7 +314,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 990,
-				"value": 16085029730
+				"value": 16090065076
 			},
 			{
 				"rank": 40,
@@ -322,7 +322,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 979,
-				"value": 15569705491
+				"value": 15571776876
 			},
 			{
 				"rank": 41,
@@ -378,7 +378,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 941,
-				"value": 13826343370
+				"value": 13833314911
 			},
 			{
 				"rank": 48,
@@ -394,7 +394,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 933,
-				"value": 13470878750
+				"value": 13471491711
 			},
 			{
 				"rank": 50,
@@ -415,7 +415,7 @@
 		"api": {
 			"version": 4,
 			"release": "edge",
-			"commit": "fe98c422321bba8cb2c5b861a2277bcbfdc064e1"
+			"commit": "2942cc41cf05081c5e5e2db3326fc16b2ae3f115"
 		},
 		"tibia_urls": [
 			"https://www.tibia.com/community/?subtopic=highscores&world=Vunira&category=6&profession=4&currentpage=1"
