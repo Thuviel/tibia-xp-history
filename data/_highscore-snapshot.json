@@ -10,7 +10,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 2013,
-				"value": 135568718225
+				"value": 135729807387
 			},
 			{
 				"rank": 2,
@@ -18,7 +18,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1855,
-				"value": 106148641367
+				"value": 106192194085
 			},
 			{
 				"rank": 3,
@@ -33,40 +33,40 @@
 				"name": "Og Kiedos",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1512,
-				"value": 57477798882
+				"level": 1513,
+				"value": 57573843841
 			},
 			{
 				"rank": 5,
 				"name": "Nicol",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1506,
-				"value": 56811059940
+				"level": 1507,
+				"value": 56840310595
 			},
 			{
 				"rank": 6,
 				"name": "Byoniic",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1477,
-				"value": 53564750067
+				"level": 1478,
+				"value": 53638405131
 			},
 			{
 				"rank": 7,
 				"name": "Saintu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1451,
-				"value": 50765692571
+				"level": 1452,
+				"value": 50856173166
 			},
 			{
 				"rank": 8,
 				"name": "Fael Seekndestroy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1411,
-				"value": 46703880177
+				"level": 1413,
+				"value": 46845037504
 			},
 			{
 				"rank": 9,
@@ -105,8 +105,8 @@
 				"name": "Goat of Game",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1305,
-				"value": 36947596750
+				"level": 1306,
+				"value": 37005433607
 			},
 			{
 				"rank": 14,
@@ -121,8 +121,8 @@
 				"name": "Illmu",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1277,
-				"value": 34598387971
+				"level": 1278,
+				"value": 34681574077
 			},
 			{
 				"rank": 16,
@@ -130,7 +130,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1233,
-				"value": 31104831994
+				"value": 31131330008
 			},
 			{
 				"rank": 17,
@@ -153,19 +153,27 @@
 				"name": "Rushikov",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1171,
-				"value": 26676210889
+				"level": 1172,
+				"value": 26727392929
 			},
 			{
 				"rank": 20,
 				"name": "Revanne",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1160,
-				"value": 25917682013
+				"level": 1161,
+				"value": 25959152852
 			},
 			{
 				"rank": 21,
+				"name": "Firewalk",
+				"vocation": "Master Sorcerer",
+				"world": "Vunira",
+				"level": 1134,
+				"value": 24226651833
+			},
+			{
+				"rank": 22,
 				"name": "Rhuor",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
@@ -173,28 +181,20 @@
 				"value": 24204614117
 			},
 			{
-				"rank": 22,
-				"name": "Firewalk",
-				"vocation": "Master Sorcerer",
-				"world": "Vunira",
-				"level": 1134,
-				"value": 24201485070
-			},
-			{
 				"rank": 23,
 				"name": "Jidler",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1133,
-				"value": 24158640585
+				"value": 24163761761
 			},
 			{
 				"rank": 24,
 				"name": "Anna Alexy",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1127,
-				"value": 23790438234
+				"level": 1128,
+				"value": 23813271298
 			},
 			{
 				"rank": 25,
@@ -210,7 +210,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1105,
-				"value": 22379695210
+				"value": 22422387440
 			},
 			{
 				"rank": 27,
@@ -226,7 +226,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1093,
-				"value": 21659548227
+				"value": 21679031683
 			},
 			{
 				"rank": 29,
@@ -234,7 +234,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1090,
-				"value": 21483725614
+				"value": 21507258501
 			},
 			{
 				"rank": 30,
@@ -242,12 +242,12 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1087,
-				"value": 21295780722
+				"value": 21340291124
 			},
 			{
 				"rank": 31,
 				"name": "Fardar",
-				"vocation": "Sorcerer",
+				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1085,
 				"value": 21171086296
@@ -266,7 +266,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1027,
-				"value": 17967135209
+				"value": 17982353994
 			},
 			{
 				"rank": 34,
@@ -282,15 +282,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1026,
-				"value": 17898368088
+				"value": 17921065117
 			},
 			{
 				"rank": 36,
 				"name": "Rox Fox",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 1016,
-				"value": 17416871501
+				"level": 1017,
+				"value": 17464614967
 			},
 			{
 				"rank": 37,
@@ -298,7 +298,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 1004,
-				"value": 16776589251
+				"value": 16792669433
 			},
 			{
 				"rank": 38,
@@ -306,15 +306,15 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 996,
-				"value": 16377955462
+				"value": 16416531160
 			},
 			{
 				"rank": 39,
 				"name": "Killer Nato",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 989,
-				"value": 16039295988
+				"level": 990,
+				"value": 16080184394
 			},
 			{
 				"rank": 40,
@@ -322,7 +322,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 978,
-				"value": 15508714867
+				"value": 15510292900
 			},
 			{
 				"rank": 41,
@@ -369,8 +369,8 @@
 				"name": "Mango Mage",
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
-				"level": 944,
-				"value": 13968260392
+				"level": 945,
+				"value": 13977672112
 			},
 			{
 				"rank": 47,
@@ -386,7 +386,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 935,
-				"value": 13566768290
+				"value": 13579737195
 			},
 			{
 				"rank": 49,
@@ -394,7 +394,7 @@
 				"vocation": "Master Sorcerer",
 				"world": "Vunira",
 				"level": 934,
-				"value": 13493533351
+				"value": 13510498554
 			},
 			{
 				"rank": 50,
